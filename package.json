@@ -1,0 +1,13 @@
+{
+	"name": "starfield",
+	"author": {
+		"email": "jessedsolomon@gmail.com",
+		"name": "Jesse Solomon"
+	},
+	"devDependencies": {
+		"@types/three": "^0.125.1"
+	},
+	"scripts": {
+		"start": "http-server public -p 80"
+	}
+}
